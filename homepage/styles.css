@@ -1,0 +1,40 @@
+body {
+    text-align: left;
+    background-color: Vanilla;
+    font-family: 'Cute Font', cursive;
+}
+h2 {
+    text-align: center;
+}
+p {
+    text-indent: 30px;
+    font-size: 30px;
+}
+#JFKoverview {
+    width: 1000px;
+}
+b {
+    font-size: 40px;
+}
+ol {
+    list-style-position: inside;
+    font-size: 25px
+}
+tt {
+    font-size: 15px;
+}
+#JFKmap {
+    width: 1450px;
+    height: 750px;
+}
+ul {
+    font-size: 25px;
+}
+#Island {
+    width: 600px;
+    height: 700px;
+}
+#Sky {
+    width: 500px;
+    height: 450px;
+}
